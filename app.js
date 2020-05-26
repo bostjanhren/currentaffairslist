@@ -146,3 +146,6 @@ document.querySelector('#note-list').addEventListener('click',
 
 });
 
+
+//Vecjezicnost
+

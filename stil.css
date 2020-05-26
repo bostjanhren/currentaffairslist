@@ -1,0 +1,22 @@
+#lang{
+    background-color: rgb(39, 49, 68);
+    height: 165px;
+    width: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: fixed;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+
+#lang-tags{
+    width: 40px;
+}
+
+.lang-flag{
+    width: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
